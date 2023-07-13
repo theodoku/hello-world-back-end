@@ -28,9 +28,7 @@
 
 # 📖 Rails-app-for-API <a name="about-project"></a>
 
- **Rails-app-for-API**  In this exercise, I will connect previous knowledge in Webpack with jsbundling-rails gem.
-
-
+**Rails-app-for-API** In this exercise, I will connect previous knowledge in Webpack with jsbundling-rails gem.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -55,13 +53,13 @@
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
+
 - Making use of Ruby on Rails
 - Making use of PostgreSQL
 
-
 ## Link to React App <a name="react-app"></a>
-> [React App](https://github.com/NahnahAJ/React-app-for-UI)
-<br>
+
+> [React App](https://github.com/theodoku/hello-world-front-end) > <br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -70,6 +68,7 @@
 ## 💻 Getting Started <a name="getting-started"></a>
 
 > To start and run this project
+
 ```
 bundle install
 ```
@@ -82,28 +81,25 @@ To get a local copy up and running, follow these steps.
 - Git to versionning your work.
 - PostgreSQL
 
-
 ### Install & Setup
 
 To setup and install this project, follow the below steps:
-- Clone this project by the command: 
+
+- Clone this project by the command:
 
 ```
-$ git clone https://github.com/NahnahAJ/Rails-app-for-API.git
+$ git clone https://github.com/theodoku/hello-world-back-end.git
 ```
 
 - Then switch to the project folder by the bellow query:
 
 ```
-$ cd Rails-app-for-API
+$ cd hello-world-back-end
 ```
 
 - Install the required dependecies with `bundle install`
 - Install npm dependencies with `npm install`
-- **Before running below commands update [config/database.yml](./config/database.yml) with your local `DB`credentials. Then run:**
-      - **`rake db:create`**
-      - **`rake db:migrate`**
-      - **`rake db:seed`**
+- **Before running below commands update [config/database.yml](./config/database.yml) with your local `DB`credentials. Then run:** - **`rake db:create`** - **`rake db:migrate`** - **`rake db:seed`**
 - With Ruby on Rails and PostgreSQL installed in your environment, you can run `rails server` to run the website.
 
 ### Tests
@@ -121,11 +117,11 @@ $ cd Rails-app-for-API
 
 ## 👥 Author <a name="authors"></a>
 
-👤 **Nahnah Ahjuwah**
+### 👤 **[THEOPHILUS DOKU]**
 
-- GitHub: [@NahnahAJ](https://github.com/NahnahAJ)
-- Twitter: [@NahnahAhjuwah](https://https://twitter.com/NahnahAhjuwah)
-- LinkedIn: [Felicia-Awuah](https://www.linkedin.com/in/felicia-awuah-gyedua/)
+- GitHub: [@githubhandle](https://github.com/theodoku)
+- Twitter: [@twitterhandle](https://twitter.com/dok_theo)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/theophilus-doku/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -136,7 +132,6 @@ $ cd Rails-app-for-API
 > Describe 1 - 3 features you will add to the project.
 
 - [ ] **Build the project schemas**
-- [ ] **Use postgresql as my database instead of sql**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
